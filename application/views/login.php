@@ -13,6 +13,7 @@ date_default_timezone_set("America/mexico_city");
 	<title>Barbería</title>    
 </head>
 <body id="Login">
+	<h1>prueba git</h1>
 	<div id="contenedorLogin">	
 				<div class="wrapper fadeInDown">
 					<div id="formContent">
